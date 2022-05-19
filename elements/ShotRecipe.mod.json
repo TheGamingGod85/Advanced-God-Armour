@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.CROSSBOW"
+      },
+      {
+        "value": "CUSTOM:AdvancedNetheriteShard"
+      },
+      {
+        "value": "Items.CROSSBOW"
+      },
+      {
+        "value": "CUSTOM:AdvancedNetheriteShard"
+      },
+      {
+        "value": "CUSTOM:PurifiedNetherStar"
+      },
+      {
+        "value": "CUSTOM:AdvancedNetheriteShard"
+      },
+      {
+        "value": "Items.CROSSBOW"
+      },
+      {
+        "value": "CUSTOM:AdvancedNetheriteShard"
+      },
+      {
+        "value": "Items.CROSSBOW"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AdvancedGodShotgun"
+    },
+    "name": "shot_recipe",
+    "namespace": "mod"
+  }
+}

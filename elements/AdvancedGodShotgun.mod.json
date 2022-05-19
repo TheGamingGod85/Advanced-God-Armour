@@ -1,0 +1,48 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "vortexbeater",
+    "customModelName": "vortexbeaterbow:default",
+    "name": "Advanced God Shotgun",
+    "specialInfo": [
+      "Used By God To Kill Demons In This World"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AdvancedGodArmourTab"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.SPECTRAL_ARROW"
+    },
+    "shootConstantly": false,
+    "usageCount": 100000,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": true,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:PurifiedNetherStar"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "AdvancedGodShotgunProjectileHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "AdvancedGodShotgunProjectileHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "AdvancedGodShotgunProjectileHitsPlayer"
+    }
+  }
+}

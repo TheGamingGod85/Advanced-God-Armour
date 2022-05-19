@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_pickaxe",
+    "customModelName": "Normal",
+    "name": "Advanced God Pickaxe",
+    "specialInfo": [
+      "The Pickaxe Used By God To Forge This World"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AdvancedGodArmourTab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 10,
+    "efficiency": 20.0,
+    "attackSpeed": 5.0,
+    "enchantability": 50,
+    "damageVsEntity": 5.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AdvancedNetheriteShard"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "AdvancedGodPickaxeRightClickedInAir"
+    }
+  }
+}

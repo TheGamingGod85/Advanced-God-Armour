@@ -1,0 +1,36 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bedrockcager",
+    "customModelName": "Normal",
+    "name": "Bedrock Breaker",
+    "specialInfo": [
+      "Used To Break Bedrock"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:AdvancedGodArmourTab"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 20.0,
+    "attackSpeed": 5.0,
+    "enchantability": 50,
+    "damageVsEntity": 5.0,
+    "usageCount": 10000,
+    "blocksAffected": [
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "BedrockBreakerBlockDestroyedWithTool"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "N",
+    "keyBindingName": "Night Press",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "NightPressOnKeyPressed"
+    }
+  }
+}

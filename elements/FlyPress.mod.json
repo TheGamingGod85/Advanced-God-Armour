@@ -1,0 +1,15 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "BACKSLASH",
+    "keyBindingName": "Fly Press",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "FlyPressOnKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "FlyPressOnKeyReleased"
+    }
+  }
+}
