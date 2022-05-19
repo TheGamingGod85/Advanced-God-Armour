@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "1": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "2": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "3": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "4": {
+      "item": "advanced_god_armour:purified_stick"
+    },
+    "5": {
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "6": {
+      "item": "advanced_god_armour:purified_nether_star"
+    },
+    "7": {
+      "item": "advanced_god_armour:purified_stick"
+    },
+    "8": {
+      "item": "advanced_god_armour:purified_nether_star"
+    }
+  },
+  "result": {
+    "item": "advanced_god_armour:advanced_god_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="advanced_god_armour"
+version="1.0-Beta"
+displayName="Advanced God Armour"
+credits="TheGamingGod85(Mod Development); Toxteer(Armour Textures): Axileus(ShotGun Textures)"
+displayURL="https://github.com/TheGamingGod85/Advanced-God-Armour"
+authors="TheGamingGod85"
+description='''
+Ever Wanted To Become Unbeatable In Your Hardcore World Or SMP???, If Yes, Then This Mod Is Definitely For You 
+'''
+
+[[dependencies.advanced_god_armour]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

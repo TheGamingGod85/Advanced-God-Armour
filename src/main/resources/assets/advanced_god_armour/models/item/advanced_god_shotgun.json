@@ -1,0 +1,7 @@
+{
+  "parent": "advanced_god_armour:custom/vortexbeaterbow",
+  "textures": {
+    "0": "advanced_god_armour:blocks/vortexbeater",
+    "particle": "advanced_god_armour:items/vortexbeater"
+  }
+}

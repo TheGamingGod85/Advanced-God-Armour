@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_block"
+    },
+    "1": {
+      "item": "minecraft:netherite_block"
+    },
+    "2": {
+      "item": "minecraft:netherite_block"
+    },
+    "3": {
+      "item": "minecraft:netherite_block"
+    },
+    "4": {
+      "item": "advanced_god_armour:purified_nether_star"
+    },
+    "5": {
+      "item": "minecraft:netherite_block"
+    },
+    "6": {
+      "item": "minecraft:netherite_block"
+    },
+    "7": {
+      "item": "minecraft:netherite_block"
+    },
+    "8": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "advanced_god_armour:advanced_netherite_shard",
+    "count": 2
+  }
+}

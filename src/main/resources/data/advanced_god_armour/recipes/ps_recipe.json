@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "1": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    }
+  },
+  "result": {
+    "item": "advanced_god_armour:purified_stick",
+    "count": 1
+  }
+}

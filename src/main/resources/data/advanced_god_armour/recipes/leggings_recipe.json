@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "1": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "2": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "3": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "4": {
+      "item": "advanced_god_armour:purified_nether_star"
+    },
+    "5": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "6": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    },
+    "7": {
+      "item": "minecraft:netherite_leggings"
+    },
+    "8": {
+      "item": "advanced_god_armour:advanced_netherite_shard"
+    }
+  },
+  "result": {
+    "item": "advanced_god_armour:advanced_god_armour_leggings",
+    "count": 1
+  }
+}
