@@ -1,6 +1,9 @@
 ### **Find This Mod On Modrinth Here:- https://modrinth.com/mod/advancedgodarmour-aga(tgg85)**
 ### **Find This Mod On CurseForge Here:- https://www.curseforge.com/minecraft/mc-mods/advanced-god-armour**
 
+### **Credits To ToxTeer For Armour Textures**
+### **Credits To Axileus For Shotgun Textures**
+
 # ***Advanced God Armour***
 
 Ever Wanted To Become Unbeatable In Your Hardcore World Or SMP???, If Yes, Then This Mod Is Definitely For You!
